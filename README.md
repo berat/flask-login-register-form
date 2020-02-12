@@ -8,6 +8,8 @@ I have just started learning Flask and I am developing a project. I plan to shar
 
     pip install flask
     pip install SQLAlchemy
+    pip install Flask-SQLAlchemy
+
 
 
 ### In This Project
